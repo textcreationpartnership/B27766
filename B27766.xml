@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Coffin opened, or, Self-interest discovered, to be laid up in the coffin, under the name of the good old cause in answer to a late pamphlet printed, and reprinted, entituled, A coffin for the good old cause, written by a discarded officer of the army, in the behalf of himself and complices / by H.P., a known friend to the cause and the commonwealth.</title>
+            <author>H. P., Known friend to the cause and the commonwealth.</author>
+         </titleStmt>
+         <extent>Approx. 19KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27766</idno><idno type="EEBO-CITATION">12538408</idno>
+  <idno type="VID">199751</idno>
+  <idno type="EEBO-PROQUEST">2240979279</idno>
+  
+            <idno type="STC">Wing P26</idno>
+            <idno type="OCLC">12538408</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27766)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 199751)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 946:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Coffin opened, or, Self-interest discovered, to be laid up in the coffin, under the name of the good old cause in answer to a late pamphlet printed, and reprinted, entituled, A coffin for the good old cause, written by a discarded officer of the army, in the behalf of himself and complices / by H.P., a known friend to the cause and the commonwealth.</title>
+                  <author>H. P., Known friend to the cause and the commonwealth.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for James Johnson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Pamphlets.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:199751:1"/>
+            <head>THE Coffin opened: OR, Self-Interest Discovered, to be laid up in the Coffin, under the Name of the GOOD OLD CAUSE. In Answer to a late Pamphlet printed, and reprinted, Entituled, <hi>A Coffin for the Good Old Cause:</hi> Written by a Discarded Officer of the Army, in the be<g ref="char:EOLhyphen"/>half of himself and Complices.</head>
+            <byline>
+               <hi>By</hi> H. P. <hi>a known Friend to the Cause and Commonwealth.</hi>
+            </byline>
+            <p>THe Pamphlet begins with that of <hi>Solomon, That a wise man foreseeth an evil, and preventeth it, but fools go on, and are punished:</hi> What wisdom then can the Parlia<g ref="char:EOLhyphen"/>ment hope to finde in his advice, that foresaw not the loss of his place, but went on and was punished for interrupting them? But (to prevent the sleighting of the Pamphlet) he tells us, It is the Judgement of <hi>all</hi> the Parliaments friends in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> that they are ruining the Good Old Cause. A full Judi<g ref="char:EOLhyphen"/>catory indeed; did he not speak by <hi>Hyperbole?</hi> Hath he tried, or doth he know the thousandth part of the Parliaments friends? 'Tis likely the Excluded Army Officers judged so, and the late <hi>armed</hi> Sectarians (as he calls them) judged so: But are they this Parliaments friends, that took up Arms against them, and turned them out of doors? blessing God that Hell was broke up (as one of them canted it) to whom Parliaments are Antichristian, as Mr. <hi>Robotham</hi> (in his Treatise on the <hi>Revelations,</hi> and in the De<g ref="char:EOLhyphen"/>dication of it to <hi>Oliver</hi>) with <hi>Deering, Pinchion,</hi> and <hi>Chillingworth,</hi>
+               <pb n="2" facs="tcp:199751:2"/> learnedly proves. What sober person of <hi>England</hi> took up Arms against this Parliament to cast them out? What Sectarian did not? of would not? I hope (of his <hi>All</hi>) he w<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll except the Lord General <hi>Monck, Okey, All<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red, Morley,</hi> &amp;c. with all the Army now in <hi>London,</hi> from thinking the Cause now nigh its Interment by this Parliament.</p>
+            <p>But he addes, Men must not go a step beyond reason: True, but what reason had he for marching against this Parliament, and breaking them up? the Parliament act (in his judgement) with<g ref="char:EOLhyphen"/>out reason in excluding the rebellious Army Officers: but they acted rationally in excluding the Parliament. It will ruine the Cause (he thinks) to moddel the Army, and sleight the Sectari<g ref="char:EOLhyphen"/>ans, but not for the Army and Sectarians to eject the Parliament. He proves it thus:</p>
+            <p>
+               <hi>The Parliaments Army is unsettled, their H<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>use divided; their Friends discouraged, their Trade decayed, their Treasure exhaust<g ref="char:EOLhyphen"/>ed, and <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r Enemies increased;</hi> therefore the Cause is dying.</p>
+            <p n="1">1. <hi>The Army is unsetled, and not like to be otherwise, while there are so many strange faces among them.</hi> 1. This is not the first time the Army hath been thus unsetled, and yet the Cause much ad<g ref="char:EOLhyphen"/>vantaged by it: witness the Moddel in 1645. and 1647. and other times, when nigh, if not full as many Officers were chan<g ref="char:EOLhyphen"/>ged, as now. 2. You think the Soldiers will not follow their new Masters: Do you think meet that the Parliament mainta<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n an Army, who will march under no other Conduct than what plea<g ref="char:EOLhyphen"/>ses the Rendezvouz? 3. Where had our Parliament been, and how unsetled had the Nation been, had not the Army been thus unsetled, and master'd? 4. Were the Soldiers so zealous for their old Officers (as you think they are) why did they revolt from them, and with scorn contemn their Authority, not staying (though much intreated) till their Officers were indempnified? 5. If that truly meritorious p<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ice of our Blood and Treasure <hi>(the Blessing of a Commonwealth)</hi> be obstructed by this unsettle<g ref="char:EOLhyphen"/>ment of the Army, we must found our ruine on your Treache<g ref="char:EOLhyphen"/>ries: Not but that we see the Cause (under God) sufficiently secured by this renowned Parliament, and General <hi>Monck:</hi> but if it should be cast (as you would have it) into the late Officers and Sectarians hands again, this Parliament (as formerly) must
+<pb n="3" facs="tcp:199751:2"/> endure a third Martyrdom, and the best of Causes turn to the worst of Curses, an Arbitrary Sword-dominion. 6. The Parlia<g ref="char:EOLhyphen"/>ment have laid by the Anabaptists (not (as you averre) because of a different perswasion in Religion, but) because they are true heirs to the <hi>Munstrian</hi> spirit, evidenced in their late Rebellions, and therefore they still cherish those more sober Anabaptists, that hated those Extravagancies of the Army and Sectarians. 7. And since you judge, the Parliament not to trust <hi>Capital Offenders,</hi> why do you complain? What can be a more Capital Offence, than to chop off the Parliament, the Politick Head of the three Nations? yea, the Majesty of the people was thrust at, and thrust out by your Swords in their Representatives. 8. But you dislike the Parliaments trusting the Presbyterian, because <hi>Booth</hi> and <hi>Love</hi> opposed them. Sir, the Commonwealth intends to thrust out Faction, and to trust all (as far as may be safe for it.) Did not <hi>Lambert, Fleetwood,</hi> and the whole host of Sectarians, not onely <hi>oppose,</hi> but <hi>depose</hi> our Parliament, yea <hi>ex<g ref="char:EOLhyphen"/>pose</hi> them to the mercy of a Bullet? Did Presbyterians ever break up Parliaments, as you have done? Yet Presbyterians are not trusted as Presbyterians, but as obedient to government: To which frame of spirit could the Sectarians come, this Parliament and Commonwealth have a ring for their finger, aswell as they had a Jewel for <hi>Lamberts</hi> ear, while he obeyed.</p>
+            <p n="9">9. But you suspect the Cause, while one of the Commissio<g ref="char:EOLhyphen"/>ners refuseth the Oath against the <hi>Stuarts:</hi> Sir, <hi>that</hi> your Army Officers would never have ventured your places upon? you ne<g ref="char:EOLhyphen"/>ver scrupled, either the taking, or breaking any Oath: you have sworn to this Parliament, <hi>Oliver, Dick,</hi> this Parliament again, and (might you be admitted) would doubtless swear once more: thus have you marched and counter-marched in Oaths and In<g ref="char:EOLhyphen"/>gagements without scruple; being so hardy as not to dread an Oath, That Commissioners fault is to refuse swearing, and your honesty is to refuse keeping an Oath. But Sir, they that know the Oath not passed the House (as you imply in you last page) will hardly believe it was yet offered, to any Commissioner to take.</p>
+            <p n="10">10. But you farther suspect the business, because that old Ca<g ref="char:EOLhyphen"/>valier Sir <hi>Anthony Ashly-Cooper,</hi> is admitted a Colonel; what, be<g ref="char:EOLhyphen"/>cause
+<pb n="4" facs="tcp:199751:3"/> (among all your Lords, <hi>Lambert, Hewson, Fleetwood,</hi> &amp;c.) you had none so high as a Knight before? or are you ashamed to see a disingaged enemy (as you think) more faithful to the Parlia<g ref="char:EOLhyphen"/>ment, than your self their ingaged Vassal? Sir <hi>Anthony</hi> was no old Cavalier, when you would have made him one of <hi>Olivers</hi> pri<g ref="char:EOLhyphen"/>vy Council: but now 'tis a sin in the Parliament to receive him, though a duly elected Member. God grant the Commonwealth more such converts.</p>
+            <p n="2">2. You urge <hi>the House is divided, and therefore cannot stand.</hi> But seriously, did you ever hear of a Parliament House that was not divided? Did Christ say or intend, that a House divided in point of judgement or debate, cannot stand: which is the present case. Do not most of the best Acts pass, by dividing the House? you think you could secure the Cause, if the House were exclu<g ref="char:EOLhyphen"/>ded; why then do you make ready the Coffin, when 'tis but divi<g ref="char:EOLhyphen"/>ded? what's division among themselves, to their ex<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lusion by you? and yet the Cause is upon it's feet. Sir, an equal division in the House, eagerly prosecuted is a State of War: but a Major vote makes union, because 'tis called and obeyed as a vote of Parliament; which is the present Case, and therefore, yet there is no need of your Coffin.</p>
+            <p n="3">3. You insist, <hi>That the Parliaments friends are discouraged.</hi> But Sir, 1. Were they not much more in <hi>October</hi> last, when they were thrown out of Commission and Credit, only for being faith<g ref="char:EOLhyphen"/>full to the Parliament? the nine Officers Letter, judge you in the ruiners of the Cause? 2. Whom do you mean by the Par<g ref="char:EOLhyphen"/>liaments friends? but such (as you describe them) as need the Parliaments pardon, are turned out in this new Model, and re<g ref="char:EOLhyphen"/>moved from the Conduct of the Army. What friends they are, appears by their twice trampling the Parliament under foot, re<g ref="char:EOLhyphen"/>pealing the last Acts they made, valuing nine of themselves at a higher rate than the whole Parliament of <hi>England,</hi> calling the Parliament (in their Declaration and Plea) a rush they catched at, to save themselves from drowning; imprisoning their friends, turning out of the Army such as stood for them, murdering some that fought for them at <hi>Portsmouth,</hi> and setting forth what Ar<g ref="char:EOLhyphen"/>mies and strength they could make, against the Parliament Ge<g ref="char:EOLhyphen"/>nerals in the North, and at <hi>Portsmouth,</hi> for the utter subversion
+<pb n="5" facs="tcp:199751:3"/> of them; raising up all the Sectarians of the Nation into a Militia against them. Heavens! with what face can these men rule themselves the Parliaments friends? 3. But are the Parliaments real friends discouraged? Is General <hi>Monck,</hi> or any Colonel of his faithful Army dissatisfied? Are the Irish or Scotish Parlia<g ref="char:EOLhyphen"/>menters troubled and disturbed at these things? or indeed, any one person that loved the Parliament? Let the World judge the truth of it. You insist, but their reputation <hi>now</hi> withers in good mens esteem. True, but as <hi>Micaejahs</hi> did with <hi>Ahab,</hi> because he would not do, and say what <hi>Ahab</hi> would have him. And by cal<g ref="char:EOLhyphen"/>ling your self and Complices <hi>good men,</hi> you shew, that you would speak long enough, before you would speak any evil of your self. Yet, while you call the Army and Sectarian <hi>tumuknaries</hi> good men; their own works, and the Nations words declare the con<g ref="char:EOLhyphen"/>trary. You say the Parliament hath put out good Sir <hi>Henry Vane,</hi> and let bad <hi>Oliver St. John</hi> rule the roste. Sir, your judg<g ref="char:EOLhyphen"/>ment which of them is good or bad, might have done well, had not your intended Protector <hi>Lambertiz'd:</hi> but now you might have suspended it, till you came to Rhadamanthus seat.</p>
+            <p>But yet you say, you are surer friends to the Parliament, than <hi>Oxford</hi> or <hi>Cambridge,</hi> Lawyer or Clergy, <hi>Calamy</hi> or <hi>Case.</hi> I be<g ref="char:EOLhyphen"/>lieve so to; in that you sent them home to dye in peace; while these with might and main chose them to those insupportable burdens of governing this Nation, as the peoples Representa<g ref="char:EOLhyphen"/>tives. You would have sent them out of these Turmoiles into Heaven, with Piques and Musquets, in your late marches against them; but these would fain keep them here, appears by their late siding against the Army, &amp; Sectarians that fought the Parliament. Your story of Col. <hi>Riches</hi> unhandsome usage by the House, being so vain: the Gentleman doth and oftentimes hath disproved it: But I do not much wonder at your calumniations, remembring that while the Lord General <hi>Monck</hi> actually appeared in Arms for this Parliament, you rendered him to the world, as one that had espoused the Interest of <hi>Charles Stuart.</hi>
+            </p>
+            <p>But you fervently urge, <hi>That the Sectarian and</hi> Charles Stuart <hi>both cannot be suppressed.</hi> I suppose your mean the rebellious Se<g ref="char:EOLhyphen"/>ctarian, for others the Parliament suppresses not; and then I an<g ref="char:EOLhyphen"/>swer? 1. The rebellious Sectarian is as much an enemy to the
+<pb n="6" facs="tcp:199751:4"/> Cause of a Commonwealth, as <hi>Charls Stuart,</hi> for he ran into Mo<g ref="char:EOLhyphen"/>narchy with <hi>Oliver, Richard,</hi> and <hi>Lambert,</hi> against a Common<g ref="char:EOLhyphen"/>wealth; yea into such a Monarchy as never was exercised in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> 2. If the Parliament cannot (as you judge) keep down both, they must in prudence, rather accept <hi>C. Stuart,</hi> than any other single Person: and admit the old Monarchy, rather than that Ca<g ref="char:EOLhyphen"/>nonical Government, Sword-men and Sectarians have set up. 3. Why cannot the Parliament keep down the Sectarian and <hi>C. Stuart,</hi> rather than the sober party and <hi>C. Stuart,</hi> whom they lost out of their respect to the Sectarian? 4. God is the same, and the Army (as to its strength) the same, and the conduct (being in that most experienced Souldie<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, General <hi>Monk</hi>) far better; Why then is the Coffin <hi>now</hi> brought forth▪ 5. You dishonour the Parliament of <hi>England,</hi> by insinuating their Interest to be so narrow, as (if you are said aside) they cannot find persons capa<g ref="char:EOLhyphen"/>ble to wield their sword in the face of their most daring enemies. Admit the turbulent Sectarians were indulged, they would do the Commonwealth asmuch service as they did you; to wit, hide their heads in the day of trouble. 6. In brief, the Good old Cause is maintained, not by rallying up Sectarians, against the sober Party, but Commonwealths-men against a single Person; and till the Commonwealth is framed, it is uphold by this Par<g ref="char:EOLhyphen"/>liament and Army, and the many thousands, ingaged upon the account of several Lands bought of the State; which is a firm <hi>Basis,</hi> while Sectarianism (upon too sad experience) appears to degenerate into the vilest Monarchy. And after the Common<g ref="char:EOLhyphen"/>wealth is formed, 'tis supported by its own sweetness and profit<g ref="char:EOLhyphen"/>ableness. Thus <hi>Royalists and Sectarians must both be kept out of office, to uphold the Commonwealth.</hi>
+            </p>
+            <p n="4">4, You say <hi>decay of trade will force the people to destroy the Par<g ref="char:EOLhyphen"/>liament and the Cause; as judging they were the Causers of it.</hi> Not so, for 'tis clear that the storms the A<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>my raised (while rampant) made rich men unwilling to venture their Estates in way of tra<g ref="char:EOLhyphen"/>ding; but the Armies hurle-burlies being now laid, by the ele<g ref="char:EOLhyphen"/>ction of the turbulent Officers, trade will soon revive, with such lifts as the Parliament will give to it.</p>
+            <p n="5">
+               <pb n="7" facs="tcp:199751:4"/>5. You say, <hi>Our Treasure is exhausted, it will be difficult to come by more, and the Army will not fight without pay; therefore the Cause must fall.</hi> 1. Who exhausted our Treasuries, but the late Officers? who hardned peoples hearts, but the late Officers and Armies Abuses? 2. Would you (if you were in place again) fight without pay? or will the Sectarians, if the Parliament ac<g ref="char:EOLhyphen"/>cept them? 3. The Parliament will be able to give the Army pay, and fill up their Treasuries better than any other Interest. 4. To ease the people of Taxes, the Parliament hath farmed out all the Offices of the Nation. 5. Your Expedient of receiving again the late rebellious Officers and Sectarians, will neither make the Tax come in the faster, nor the work be carried on the cheaper, since both Sectarian and Wallingfordians are perfectly hateful to the people; so that your way will never keep the Cause out of the Coffin.</p>
+            <p n="6">6. You farther urge, <hi>That the Parliaments enemies increase, therefore the Cause must fall, and farewel to it for ever.</hi> 1. Its strange men should say their enemies increase, who within these two Moneths, had two Armies in <hi>England</hi> against them, and now not a man that takes up a sword against them? 2. The sober sort of English men that were once Neuters, are now won to the Parliament, for their sub<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ecting the Military to the Civil Sword, and humbling the campant Sectaries and Army Officers. 3. These new enemies (as you call them) are old ones, having fallen off from the Parliament with <hi>Ol<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver,</hi> 7. years since; and proved their enem<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es asmuch as any; and therefore sure you speak Ironically, when you say, the Parliament kicks off their fastest friends; when they lay aside such as have twice tr<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpled on them. 4. You con<g ref="char:EOLhyphen"/>fess Malignants, Neuters, and Presbyterians come into the Par<g ref="char:EOLhyphen"/>liament, and surely this is hot loosing friends, or increasing ene<g ref="char:EOLhyphen"/>mies. 5. The Parliament is hastening in that noble and glorious struction of a Commonwealth; which when once settled, how ambitious will men be to sit under the shadow of it. 6. They are about to fill up the House, which will actually ingage the whole Nation. I like your advice of so bearing to put all magistracy <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto one pe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>swasion<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hand: which is a danger at the heart of all you said before, concerning Sectarians and your equal Com<g ref="char:EOLhyphen"/>monwealth is inconsistent with your Officers you plead for.</p>
+            <pb n="8" facs="tcp:199751:5"/>
+            <p>Upon the whole matter, it appears to be the great concern of the Parliament. 1. To make all Persons that have acted in the last Rebellion, uncapable of any place of trust, or of electing o<g ref="char:EOLhyphen"/>thers to it. 2. Forthwith to fill up the House, that Taxes may come in peaceably, and the dissatisfactions of the people may be removed. 3. To take special care, that the old Army Officers may be secured from coming among, or tampering with the Soul<g ref="char:EOLhyphen"/>diery. 4. Not to spare Sequestration, and Sale of any Persons E<g ref="char:EOLhyphen"/>state not indemnified; in that thereby they best secure the Cause. Now, should the Parliament be influenced by the Coffin, the World will distrust Parliamentary policy; for they run on the rock, by which they have been twice already split: they will hug those Serpents, whose venom they have sadly felt: and will cer<g ref="char:EOLhyphen"/>tainly loose their loyal Servant General <hi>Monck,</hi> and his faith<g ref="char:EOLhyphen"/>full Army (as is too manifest already) and suffer their true friends <hi>Okey, Alured, Crook,</hi> &amp;c. to be bearded by their scornful ad<g ref="char:EOLhyphen"/>versaries: Crouch to those whom they lately cashier'd: force the Nation into implacable enmity against them; trust whom they have many wayes disobliged: become a Sanctuary for Traytors. And at last (instead of a happy Commonwealth) leave the har<g ref="char:EOLhyphen"/>rassed Nation, to the boundless Tyranny of a Protector and his Bassage, till some forreign Prince be ready to swallow us up: with this unhappy disadvantage, to decline the only friends that owned them, in the hour of their temptation: while they em<g ref="char:EOLhyphen"/>brace their trayterous enemies, that eagerly pursued theirs and <hi>Englands</hi> ruine.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>James Johnson,</hi> 16<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
